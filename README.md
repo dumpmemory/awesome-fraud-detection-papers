@@ -32,6 +32,192 @@ A curated list of fraud detection papers from the following conferences:
 
 Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers), [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers), [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers), and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) papers with implementations.
 
+## 2025
+- **Global Attribute-Association Pattern Aggregation for Graph Fraud Detection (AAAI 2025)**
+  - Mingjiang Duan, Da He, Tongya Zheng, Lingxiang Jia, Mingli Song, Xinyu Wang, Zunlei Feng
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Context-aware Graph Neural Network for Graph-based Fraud Detection with Extremely Limited Labels (AAAI 2025)**
+  - Pengbo Li, Hang Yu, Xiangfeng Luo
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **A Label-free Heterophily-guided Approach for Unsupervised Graph Fraud Detection (AAAI 2025)**
+  - Junjun Pan, Yixin Liu, Xin Zheng, Yizhen Zheng, Alan Wee-Chung Liew, Fuyi Li, Shirui Pan
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Online Fraud Detection via Test-Time Retrieval-Based Representation Enrichment (AAAI 2025)**
+  - Yiran Qiao, Ningtao Wang, Yuncong Gao, Yang Yang, Xing Fu, Weiqiang Wang, Xiang Ao
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Dynamic Neighborhood Modeling via Node-Subgraph Contrastive Learning for Graph-Based Fraud Detection (AAAI 2025)**
+  - Zhizhi Yu, Chundong Liang, Xinglong Chang, Dongxiao He, Di Jin, Jianguo Wei
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks Against GNN-Based Fraud Detectors (AAAI 2025)**
+  - Jinhyeok Choi, Heehyeon Kim, Joyce Jiyoung Whang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **ScamNet: Toward Explainable Large Language Model-Based Fraudulent Shopping Website Detection (AAAI 2025)**
+  - Marzieh Bitaab, Alireza Karimi, Zhuoer Lyu, Ahmadreza Mosallanezhad, Adam Oest, Ruoyu Wang, Tiffany Bao, Yan Shoshitaishvili, Adam Doupé
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Federated Gradient Boosting for Financial Fraud Detection: An Empirical Study in the Banking Sector (CIKM 2025)**
+  - Dae-Young Park, In-Young Ko, Taek-Ho Lee, Junghye Lee
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Neighbor-enhanced Graph Pre-training and Prompt Learning Framework for Fraud Detection (CIKM 2025)**
+  - Ziyang Cheng, Jie Yang, Yixin Song, Dawei Cheng, Guang Yang, Bo Wang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Fraudulent Delivery Detection with Multimodal Courier Behavior Data in Last-Mile Delivery (CIKM 2025)**
+  - Shanshan Wang, Sijing Duan, Shuxin Zhong, Zhiqing Hong, Zhiyuan Zhou, Hongyu Lin, Weijian Zuo, Desheng Zhang, Yi Ding
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Fraud-Proof Revenue Division on Subscription Platforms (ICML 2025)**
+  - Abheek Ghosh, Tzeh Yuan Neoh, Nicholas Teh, Giannis Tyrovolas
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning (IJCAI 2025)**
+  - Yudan Song, Yuecen Wei, Yuhang Lu, Qingyun Sun, Minglai Shao, Li-E Wang, Chunming Hu, Xianxian Li, Xingcheng Fu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Attention-based Conditional Random Field for Financial Fraud Detection (IJCAI 2025)**
+  - Xiaoguang Wang, Chenxu Wang, Luyue Zhang, Xiaole Wang, Mengqin Wang, Huanlong Liu, Tao Qin
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **MutationGuard: A Graph and Temporal-Spatial Neural Method for Detecting Mutation Telecommunication Fraud (IJCAI 2025)**
+  - Haitao Bai, Pinghui Wang, Ruofei Zhang, Ziyang Zhou, Juxiang Zeng, Yulou Su, Li Xing, Zhou Su, Chen Zhang, Lizhen Cui, Jun Hao, Wei Wang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Welcome to the Dark Side: Analyzing the Revenue Flows of Fraud in the Online Ad Ecosystem (WWW 2025)**
+  - Emmanouil Papadogiannakis, Nicolas Kourtellis, Panagiotis Papadopoulos, Evangelos P. Markatos
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Grad: Guided Relation Diffusion Generation for Graph Augmentation in Graph Fraud Detection (WWW 2025)**
+  - Jie Yang, Rui Zhang, Ziyang Cheng, Dawei Cheng, Guang Yang, Bo Wang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+## 2024
+- **Revisiting Graph-Based Fraud Detection in Sight of Heterophily and Spectrum (AAAI 2024)**
+  - Fan Xu, Nan Wang, Hao Wu, Xuezhi Wen, Xibin Zhao, Hai Wan
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **DiG-In-GNN: Discriminative Feature Guided GNN-Based Fraud Detector against Inconsistencies in Multi-Relation Fraud Graph (AAAI 2024)**
+  - Jinghui Zhang, Zhengjia Xu, Dingyang Lv, Zhan Shi, Dian Shen, Jiahui Jin, Fang Dong
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **DGA-GNN: Dynamic Grouping Aggregation GNN for Fraud Detection (AAAI 2024)**
+  - Mingjiang Duan, Tongya Zheng, Yang Gao, Gang Wang, Zunlei Feng, Xinyu Wang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Barely Supervised Learning for Graph-Based Fraud Detection (AAAI 2024)**
+  - Hang Yu, Zhengyang Liu, Xiangfeng Luo
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Pre-trained Online Contrastive Learning for Insurance Fraud Detection (AAAI 2024)**
+  - Rui Zhang, Dawei Cheng, Jie Yang, Yi Ouyang, Xian Wu, Yefeng Zheng, Changjun Jiang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **A Payment Transaction Pre-training Model for Fraud Transaction Detection (CIKM 2024)**
+  - Wenxi Huang, Zhangyi Zhao, Xiaojun Chen, Qin Zhang, Mark Junjie Li, Hanjing Su, Qingyao Wu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Collaborative Fraud Detection on Large Scale Graph Using Secure Multi-Party Computation (CIKM 2024)**
+  - Xin Liu, Xiaoyu Fan, Rong Ma, Kun Chen, Yi Li, Guosai Wang, Wei Xu
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **LEX-GNN: Label-Exploring Graph Neural Network for Accurate Fraud Detection (CIKM 2024)**
+  - Woochang Hyun, Insoo Lee, Bongwon Suh
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Graph-theoretical Approach to Enhance Accuracy of Financial Fraud Detection Using Synthetic Tabular Data Generation (CIKM 2024)**
+  - Dae-Young Park
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **TROPICAL: Transformer-Based Hypergraph Learning for Camouflaged Fraudster Detection (ICDM 2024)**
+  - Venus Haghighi, Behnaz Soltani, Nasrin Shabani, Jia Wu, Yang Zhang, Lina Yao, Quan Z. Sheng, Jian Yang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Partitioning Message Passing for Graph Fraud Detection (ICLR 2024)**
+  - Wei Zhuo, Zemin Liu, Bryan Hooi, Bingsheng He, Guang Tan, Rizal Fathony, Jia Chen
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Fraud Risk Mitigation in Real-Time Payments: A Strategic Agent-Based Analysis (IJCAI 2024)**
+  - Katherine Mayo, Nicholas Grabill, Michael P. Wellman
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **SACNN: Self Attention-based Convolutional Neural Network for Fraudulent Behaviour Detection in Sports (IJCAI 2024)**
+  - Maxx Richard Rahman, Lotfy H. Abdel Khaliq, Thomas Piper, Hans Geyer, Tristan Equey, Norbert Baume, Reid Aikin, Wolfgang Maass
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Safeguarding Fraud Detection from Attacks: A Robust Graph Learning Approach (IJCAI 2024)**
+  - Jiasheng Wu, Xin Liu, Dawei Cheng, Yi Ouyang, Xian Wu, Yefeng Zheng
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Effective High-order Graph Representation Learning for Credit Card Fraud Detection (IJCAI 2024)**
+  - Yao Zou, Dawei Cheng
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Cost-Efficient Fraud Risk Optimization with Submodularity in Insurance Claim (KDD 2024)**
+  - Yupeng Wu, Zhibo Zhu, Chaoyi Ma, Hong Qian, Xingyu Lu, Yangwenhui Zhang, Xiaobo Qin, Binjie Fei, Jun Zhou, Aimin Zhou
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **SEFraud: Graph-based Self-Explainable Fraud Detection via Interpretative Mask Learning (KDD 2024)**
+  - Kaidi Li, Tianmeng Yang, Min Zhou, Jiahao Meng, Shendi Wang, Yihui Wu, Boshuai Tan, Hu Song, Lujia Pan, Fan Yu, Zhenli Sheng, Yunhai Tong
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **On Finding Bi-objective Pareto-optimal Fraud Prevention Rule Sets for Fintech Applications (KDD 2024)**
+  - Chengyao Wen, Yin Lou
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **VecAug: Unveiling Camouflaged Frauds with Cohort Augmentation for Enhanced Detection (KDD 2024)**
+  - Fei Xiao, Shaofeng Cai, Gang Chen, H. V. Jagadish, Beng Chin Ooi, Meihui Zhang
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **Friend or Foe%3F Mining Suspicious Behavior via Graph Capsule Infomax Detector against Fraudsters (WWW 2024)**
+  - Xiangping Zheng, Bo Wu, Xun Liang, Wei Li
+  - [[Paper]]( )
+  - [[Code]]( )
+
+- **ZipZap: Efficient Training of Language Models for Large-Scale Fraud Detection on Blockchain (WWW 2024)**
+  - Sihao Hu, Tiansheng Huang, Ka-Ho Chow, Wenqi Wei, Yanzhao Wu, Ling Liu
+  - [[Paper]]( )
+  - [[Code]]( )
 
 ## 2023
 - **Anti-Money Laundering by Group-Aware Deep Graph Learning (TKDE 2023)**
