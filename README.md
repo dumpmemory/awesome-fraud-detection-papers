@@ -116,68 +116,57 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2024
 - **Revisiting Graph-Based Fraud Detection in Sight of Heterophily and Spectrum (AAAI 2024)**
   - Fan Xu, Nan Wang, Hao Wu, Xuezhi Wen, Xibin Zhao, Hai Wan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2312.06441)
 
 - **DiG-In-GNN: Discriminative Feature Guided GNN-Based Fraud Detector against Inconsistencies in Multi-Relation Fraud Graph (AAAI 2024)**
   - Jinghui Zhang, Zhengjia Xu, Dingyang Lv, Zhan Shi, Dian Shen, Jiahui Jin, Fang Dong
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28785)
+  - [[Code]](https://github.com/GraphBerry/DiG-In-GNN)
 
 - **DGA-GNN: Dynamic Grouping Aggregation GNN for Fraud Detection (AAAI 2024)**
   - Mingjiang Duan, Tongya Zheng, Yang Gao, Gang Wang, Zunlei Feng, Xinyu Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29067)
 
 - **Barely Supervised Learning for Graph-Based Fraud Detection (AAAI 2024)**
   - Hang Yu, Zhengyang Liu, Xiangfeng Luo
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/10.1609/aaai.v38i15.29593)
 
 - **Pre-trained Online Contrastive Learning for Insurance Fraud Detection (AAAI 2024)**
   - Rui Zhang, Dawei Cheng, Jie Yang, Yi Ouyang, Xian Wu, Yefeng Zheng, Changjun Jiang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/30259)
 
 - **A Payment Transaction Pre-training Model for Fraud Transaction Detection (CIKM 2024)**
   - Wenxi Huang, Zhangyi Zhao, Xiaojun Chen, Qin Zhang, Mark Junjie Li, Hanjing Su, Qingyao Wu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3627673.3679670)
 
 - **Collaborative Fraud Detection on Large Scale Graph Using Secure Multi-Party Computation (CIKM 2024)**
   - Xin Liu, Xiaoyu Fan, Rong Ma, Kun Chen, Yi Li, Guosai Wang, Wei Xu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3627673.3679863)
 
 - **LEX-GNN: Label-Exploring Graph Neural Network for Accurate Fraud Detection (CIKM 2024)**
   - Woochang Hyun, Insoo Lee, Bongwon Suh
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3627673.3679956)
+  - [[Code]](https://github.com/wdhyun/LEX-GNN)
 
 - **Graph-theoretical Approach to Enhance Accuracy of Financial Fraud Detection Using Synthetic Tabular Data Generation (CIKM 2024)**
   - Dae-Young Park
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3627673.3680267)
 
 - **TROPICAL: Transformer-Based Hypergraph Learning for Camouflaged Fraudster Detection (ICDM 2024)**
   - Venus Haghighi, Behnaz Soltani, Nasrin Shabani, Jia Wu, Yang Zhang, Lina Yao, Quan Z. Sheng, Jian Yang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ieeexplore.ieee.org/document/10884140)
 
 - **Partitioning Message Passing for Graph Fraud Detection (ICLR 2024)**
   - Wei Zhuo, Zemin Liu, Bryan Hooi, Bingsheng He, Guang Tan, Rizal Fathony, Jia Chen
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2412.00020)
 
 - **Fraud Risk Mitigation in Real-Time Payments: A Strategic Agent-Based Analysis (IJCAI 2024)**
   - Katherine Mayo, Nicholas Grabill, Michael P. Wellman
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2024/18)
 
 - **SACNN: Self Attention-based Convolutional Neural Network for Fraudulent Behaviour Detection in Sports (IJCAI 2024)**
   - Maxx Richard Rahman, Lotfy H. Abdel Khaliq, Thomas Piper, Hans Geyer, Tristan Equey, Norbert Baume, Reid Aikin, Wolfgang Maass
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2024/665)
 
 - **Safeguarding Fraud Detection from Attacks: A Robust Graph Learning Approach (IJCAI 2024)**
   - Jiasheng Wu, Xin Liu, Dawei Cheng, Yi Ouyang, Xian Wu, Yefeng Zheng
