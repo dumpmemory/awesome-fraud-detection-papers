@@ -35,83 +35,67 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2025
 - **Global Attribute-Association Pattern Aggregation for Graph Fraud Detection (AAAI 2025)**
   - Mingjiang Duan, Da He, Tongya Zheng, Lingxiang Jia, Mingli Song, Xinyu Wang, Zunlei Feng
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33264)
 
 - **Context-aware Graph Neural Network for Graph-based Fraud Detection with Extremely Limited Labels (AAAI 2025)**
   - Pengbo Li, Hang Yu, Xiangfeng Luo
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33319)
 
 - **A Label-free Heterophily-guided Approach for Unsupervised Graph Fraud Detection (AAAI 2025)**
   - Junjun Pan, Yixin Liu, Xin Zheng, Yizhen Zheng, Alan Wee-Chung Liew, Fuyi Li, Shirui Pan
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2502.13308)
 
 - **Online Fraud Detection via Test-Time Retrieval-Based Representation Enrichment (AAAI 2025)**
   - Yiran Qiao, Ningtao Wang, Yuncong Gao, Yang Yang, Xing Fu, Weiqiang Wang, Xiang Ao
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33359)
 
 - **Dynamic Neighborhood Modeling via Node-Subgraph Contrastive Learning for Graph-Based Fraud Detection (AAAI 2025)**
   - Zhizhi Yu, Chundong Liang, Xinglong Chang, Dongxiao He, Di Jin, Jianguo Wei
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33431)
 
 - **Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks Against GNN-Based Fraud Detectors (AAAI 2025)**
   - Jinhyeok Choi, Heehyeon Kim, Joyce Jiyoung Whang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2412.18370)
 
 - **ScamNet: Toward Explainable Large Language Model-Based Fraudulent Shopping Website Detection (AAAI 2025)**
   - Marzieh Bitaab, Alireza Karimi, Zhuoer Lyu, Ahmadreza Mosallanezhad, Adam Oest, Ruoyu Wang, Tiffany Bao, Yan Shoshitaishvili, Adam Doupé
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/35000)
 
 - **Federated Gradient Boosting for Financial Fraud Detection: An Empirical Study in the Banking Sector (CIKM 2025)**
   - Dae-Young Park, In-Young Ko, Taek-Ho Lee, Junghye Lee
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3746252.3760891)
 
 - **Neighbor-enhanced Graph Pre-training and Prompt Learning Framework for Fraud Detection (CIKM 2025)**
   - Ziyang Cheng, Jie Yang, Yixin Song, Dawei Cheng, Guang Yang, Bo Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3746252.3761588)
 
 - **Fraudulent Delivery Detection with Multimodal Courier Behavior Data in Last-Mile Delivery (CIKM 2025)**
   - Shanshan Wang, Sijing Duan, Shuxin Zhong, Zhiqing Hong, Zhiyuan Zhou, Hongyu Lin, Weijian Zuo, Desheng Zhang, Yi Ding
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3746252.3761560)
 
 - **Fraud-Proof Revenue Division on Subscription Platforms (ICML 2025)**
   - Abheek Ghosh, Tzeh Yuan Neoh, Nicholas Teh, Giannis Tyrovolas
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2511.04465)
 
 - **Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning (IJCAI 2025)**
   - Yudan Song, Yuecen Wei, Yuhang Lu, Qingyun Sun, Minglai Shao, Li-E Wang, Chunming Hu, Xianxian Li, Xingcheng Fu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2507.06469)
 
 - **Attention-based Conditional Random Field for Financial Fraud Detection (IJCAI 2025)**
   - Xiaoguang Wang, Chenxu Wang, Luyue Zhang, Xiaole Wang, Mengqin Wang, Huanlong Liu, Tao Qin
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2025/870)
 
 - **MutationGuard: A Graph and Temporal-Spatial Neural Method for Detecting Mutation Telecommunication Fraud (IJCAI 2025)**
   - Haitao Bai, Pinghui Wang, Ruofei Zhang, Ziyang Zhou, Juxiang Zeng, Yulou Su, Li Xing, Zhou Su, Chen Zhang, Lizhen Cui, Jun Hao, Wei Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2025/1061)
 
 - **Welcome to the Dark Side: Analyzing the Revenue Flows of Fraud in the Online Ad Ecosystem (WWW 2025)**
   - Emmanouil Papadogiannakis, Nicolas Kourtellis, Panagiotis Papadopoulos, Evangelos P. Markatos
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3696410.3714899)
 
 - **Grad: Guided Relation Diffusion Generation for Graph Augmentation in Graph Fraud Detection (WWW 2025)**
   - Jie Yang, Rui Zhang, Ziyang Cheng, Dawei Cheng, Guang Yang, Bo Wang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.arxiv.org/abs/2512.18133)
 
 ## 2024
 - **Revisiting Graph-Based Fraud Detection in Sight of Heterophily and Spectrum (AAAI 2024)**
