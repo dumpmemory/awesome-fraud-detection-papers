@@ -181,43 +181,35 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 - **Safeguarding Fraud Detection from Attacks: A Robust Graph Learning Approach (IJCAI 2024)**
   - Jiasheng Wu, Xin Liu, Dawei Cheng, Yi Ouyang, Xian Wu, Yefeng Zheng
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://www.ijcai.org/proceedings/2024/830)
 
 - **Effective High-order Graph Representation Learning for Credit Card Fraud Detection (IJCAI 2024)**
   - Yao Zou, Dawei Cheng
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2503.01556)
 
 - **Cost-Efficient Fraud Risk Optimization with Submodularity in Insurance Claim (KDD 2024)**
   - Yupeng Wu, Zhibo Zhu, Chaoyi Ma, Hong Qian, Xingyu Lu, Yangwenhui Zhang, Xiaobo Qin, Binjie Fei, Jun Zhou, Aimin Zhou
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3637528.3672012)
 
 - **SEFraud: Graph-based Self-Explainable Fraud Detection via Interpretative Mask Learning (KDD 2024)**
   - Kaidi Li, Tianmeng Yang, Min Zhou, Jiahao Meng, Shendi Wang, Yihui Wu, Boshuai Tan, Hu Song, Lujia Pan, Fan Yu, Zhenli Sheng, Yunhai Tong
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2406.11389)
 
 - **On Finding Bi-objective Pareto-optimal Fraud Prevention Rule Sets for Fintech Applications (KDD 2024)**
   - Chengyao Wen, Yin Lou
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2311.00964)
 
 - **VecAug: Unveiling Camouflaged Frauds with Cohort Augmentation for Enhanced Detection (KDD 2024)**
   - Fei Xiao, Shaofeng Cai, Gang Chen, H. V. Jagadish, Beng Chin Ooi, Meihui Zhang
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://arxiv.org/abs/2408.00513)
 
-- **Friend or Foe%3F Mining Suspicious Behavior via Graph Capsule Infomax Detector against Fraudsters (WWW 2024)**
+- **Friend or Foe? Mining Suspicious Behavior via Graph Capsule Infomax Detector against Fraudsters (WWW 2024)**
   - Xiangping Zheng, Bo Wu, Xun Liang, Wei Li
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3589334.3645706)
 
 - **ZipZap: Efficient Training of Language Models for Large-Scale Fraud Detection on Blockchain (WWW 2024)**
   - Sihao Hu, Tiansheng Huang, Ka-Ho Chow, Wenqi Wei, Yanzhao Wu, Ling Liu
-  - [[Paper]]( )
-  - [[Code]]( )
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3589334.3645352)
 
 ## 2023
 - **Anti-Money Laundering by Group-Aware Deep Graph Learning (TKDE 2023)**
